@@ -1,2 +1,0 @@
-# app-greenfield
-app-greenfield
